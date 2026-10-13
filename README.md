@@ -1,82 +1,171 @@
-# Hey, I'm Nikku Deekshith 👋
+<!-- HERO -->
+<div align="center">
 
-### 💻 Software Developer | AI/ML Enthusiast | CSE @ KIIT
+# NIKKU DEEKSHITH
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+real-world+projects;Exploring+Artificial+Intelligence;Learning+and+building+every+day" alt="Typing SVG" />
-</p>
+### SOFTWARE DEVELOPER · AI/ML · GENERATIVE AI
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikkudeekshith&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+applications;Exploring+AI+and+Agentic+Systems;Turning+ideas+into+real-world+solutions" alt="Developer introduction" />
 
----
+<img src="https://komarev.com/ghpvc/?username=nikkudeekshith&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 
-## 🧑‍💻 About Me
+[GitHub](https://github.com/nikkudeekshith) · [Repositories](https://github.com/nikkudeekshith?tab=repositories) · [Projects](https://github.com/nikkudeekshith?tab=repositories)
 
-- 🎓 Computer Science and Engineering student at KIIT University
-- 🚀 Graduating in 2027
-- 🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI
-- 🌐 Exploring Full Stack Development and software engineering
-- 💡 I enjoy building practical projects and learning new technologies
-- 🎯 My goal is to become a skilled software developer
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `01` / SYSTEM PROFILE
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,mysql,aws,git,github,vscode" alt="Tech stack" />
-</p>
+<table>
+<tr>
+<td width="40%" align="center">
 
-**AI/ML:** Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV
+<img src="https://skillicons.dev/icons?i=python,java,react,aws&perline=2" alt="Core technologies" />
 
-**AI Development:** LangChain, OpenAI API, Streamlit
+**DEVELOPER PROFILE**
+
+`CSE / KIIT UNIVERSITY`
+
+`GRADUATING · 2027`
+
+</td>
+<td width="60%">
+
+| SYSTEM INFO | DETAILS |
+|:--|:--|
+| **Identity** | Nikku Deekshith |
+| **Primary Focus** | Software Engineering |
+| **AI Division** | Machine Learning & Generative AI |
+| **Web Division** | React.js & JavaScript |
+| **Languages** | Python, Java, C, SQL |
+| **Current Mission** | Build useful, real-world software |
+| **Status** | Always learning and building |
+
+</td>
+</tr>
+</table>
+
+## `02` / ABOUT ME
+
+Hey! I'm a Computer Science student who enjoys building applications and exploring how AI can solve practical problems.
+
+- Building projects with Python and modern web technologies.
+- Exploring machine learning, LLM applications and agentic workflows.
+- Learning software engineering fundamentals and writing better code.
+- Interested in creating useful products, not just demonstrations.
+
+**My philosophy:** Learn the fundamentals. Build consistently. Improve every day.
 
 ---
 
-## 🚀 Featured Projects
+## `03` / SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ✈️ Travora
-An AI-powered travel planning project.
 
-**Tech:** Python
+An AI-focused travel planning project.
 
-[View Project](https://github.com/nikkudeekshith/travora)
+**Core technology:** Python
+
+[Explore repository →](https://github.com/nikkudeekshith/travora)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 OpsPilot-Agentic-AI
-An AI-powered autonomous incident investigation and root cause analysis platform.
 
-**Tech:** Python
+An AI-powered incident investigation and root cause analysis platform.
 
-[View Project](https://github.com/nikkudeekshith/OpsPilot-Agentic-AI)
+**Core technology:** Python
+
+[Explore repository →](https://github.com/nikkudeekshith/OpsPilot-Agentic-AI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 Traffic Congestion Prediction
+
+Machine learning and traffic data analysis to predict traffic conditions.
+
+**Core technology:** Python, Pandas, Scikit-learn
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Predictive Maintenance
+
+Exploratory data analysis of industrial machine data and failure patterns.
+
+**Core technology:** Python, Pandas, NumPy
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## `04` / TECHNOLOGY MATRIX
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikkudeekshith&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkudeekshith&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikkudeekshith&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" alt="Programming languages" />
+
+### DEVELOPMENT & FRAMEWORKS
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,streamlit,mysql,git,github,vscode" alt="Development tools" />
+
+### AI / MACHINE LEARNING
+
+`Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `OpenCV`
+
+### AI APPLICATION DEVELOPMENT
+
+`LangChain` · `OpenAI API` · `LLM Applications` · `Agentic AI`
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## `05` / GITHUB TELEMETRY
 
-<p align="center">
-  <a href="https://github.com/nikkudeekshith">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikkudeekshith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=58A6FF" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkudeekshith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Most used languages" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=nikkudeekshith&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=58A6FF&currStreakLabel=A78BFA" alt="Contribution streak" />
+
+</div>
+
+---
+
+## `06` / CONNECT
+
+<div align="center">
+
+<a href="https://github.com/nikkudeekshith">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+`BUILD · LEARN · ITERATE`
+
+*Thanks for visiting my digital workspace.*
+
+</div>
